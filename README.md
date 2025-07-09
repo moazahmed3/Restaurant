@@ -70,16 +70,4 @@
   - Can add and remove items from cart
 - Logout button clears session
 
----
-
-## 💡 Future Improvements
-
-- Integrate real payment gateway (e.g., Stripe, PayMob)
-- Backend integration (Node.js or Firebase)
-- Better meal categorization and filtering
-- User registration and persistent orders
-
----
-
-## 📂 Folder Structure (Simplified)
 
