@@ -1,4 +1,4 @@
-# 🍽️ Restaurant - Smart Restaurant Website
+# 🍽️ Restaurant 
 
 > A complete restaurant website with menu, cart, authentication, and checkout functionalities.  
 > Built with HTML, CSS, Bootstrap, JavaScript – no frameworks, just clean code!
