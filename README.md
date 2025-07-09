@@ -6,7 +6,7 @@
 ![image](https://github.com/user-attachments/assets/05f823eb-2ee6-4200-8901-eed4c5ef63fc)
 
 
-🔗 **Live Demo:** [Restaurant by Moaz Ahmed](https://moazahmed3.github.io/Restaurant/)
+🔗 **Live Demo:** [Restaurant](https://moazahmed3.github.io/Restaurant/)
   
 ---
 
