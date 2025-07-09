@@ -2,9 +2,8 @@
 
 > A complete restaurant website with menu, cart, authentication, and checkout functionalities.  
 > Built with HTML, CSS, Bootstrap, JavaScript – no frameworks, just clean code!
-<p align="center">
-  <img src="./img/Screenshot 2025-07-09 045128" alt="Restoran Screenshot" width="100%" />
-</p>
+
+![image](https://github.com/user-attachments/assets/05f823eb-2ee6-4200-8901-eed4c5ef63fc)
 
 
 🔗 **Live Demo:** [Restoran by Moaz Ahmed](https://moazahmed3.github.io/Restaurant/)
