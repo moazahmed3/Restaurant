@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <!--! bootstrap  -->
+    <link rel="stylesheet" href="css/login.css" />
+    <!--  style file-->
+  </head>
+  <body data-page="login">
+    <div class="login-system py-5 text-center">
+      <div class="container p-5">
+        <div class="login p-5 m-auto">
+          <h1> Login </h1>
+          <div class="mb-3 mt-4">
+            <input
+              type="email"
+              name="email"
+              id="emailInput"
+              class="form-control"
+              placeholder="Enter your email"
+              aria-describedby="helpId"
+            />
+          </div>
+          <div class="mb-3">
+            <input
+              type="password"
+              name="password"
+              id="passwordInput"
+              class="form-control"
+              placeholder="Enter your password"
+              aria-describedby="helpId"
+            />
+          </div>
+          <p class="text-center text-danger d-none" id="errorValidation"></p>
+          <button class="btn main-btn d-block mt-4" id="main-btn">Login</button>
+          <p class="text-black pt-4 fw-bolder">
+            Don’t have an account?
+            <a
+              id="mood"
+              href="./signUp.html"
+              class="text-decoration-none register text-black"
+              >Sign Up</a
+            >
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <!--  bootstrap -->
+    <script src="js/login.js"></script>
+    <!--  index -->
+  </body>
+</html>
