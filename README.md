@@ -3,7 +3,7 @@
 > A complete restaurant website with menu, cart, authentication, and checkout functionalities.  
 > Built with HTML, CSS, Bootstrap, JavaScript – no frameworks, just clean code!
 <p align="center">
-  <img src="./assets/screenshot.png" alt="Restoran Screenshot" width="100%" />
+  <img src="./img/Screenshot 2025-07-09 045128" alt="Restoran Screenshot" width="100%" />
 </p>
 
 
